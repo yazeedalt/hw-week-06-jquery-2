@@ -54,3 +54,4 @@ Change the page with jQuery so that when the button is clicked, the image change
 
 **Hint:** Change the `src` [attribute](http://api.jquery.com/attr/) of the image.
 # hw-week-06-jquery-2
+# hw-week-06-jquery-2
