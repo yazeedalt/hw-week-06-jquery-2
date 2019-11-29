@@ -53,3 +53,4 @@ Change the page with jQuery so that when the button is clicked, the image change
 <img src="http://rs284.pbsrc.com/albums/ll36/Bigsteve87/Gifs/Liz_Lemon_High_Five.gif~c200">
 
 **Hint:** Change the `src` [attribute](http://api.jquery.com/attr/) of the image.
+# hw-week-06-jquery-2
